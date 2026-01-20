@@ -1,13 +1,27 @@
 ---
-title: "About Emil Mathew Binny"
+title: About Me
 ---
 
-## Who I am
+## My Journey
 
-I am a finance and business strategy professional with an MA in Applied Economics (JNU) and an MBA in Finance & Strategy from Rice Business. I have worked across pricing, strategy, and credit risk, managing multi‑million‑dollar portfolios and driving growth for global companies.[file:12]
+From Kerala to JNU, from corporate strategy to Rice University, and now preparing for the Civil Services Examination — my path has been shaped by curiosity, resilience, and a desire to contribute meaningfully.
 
-## What I do now
+## Academic Foundation
+- MA Applied Economics — JNU
+- MBA (Finance & Strategy) — Rice University
 
-I help students and professionals through consulting, tutoring, and coaching alongside my UPSC preparation. My focus areas are business and financial strategy, economics education, UPSC Economics optional, and interview preparation.[file:12]
+## Professional Experience
+- 40% revenue growth at VAS Carbons
+- Consulting for Sasol & Toshiba
+- Credit & risk management at Neste ($75M+ portfolio)
 
-[View my services](/services/)
+## Teaching & Mentorship
+- University-level teaching experience
+- Interviewed 250+ candidates across roles and industries
+
+## Resilience
+Survived Guillain-Barré Syndrome — an experience that fundamentally reshaped how I approach learning, work, and leadership.
+
+## Current Focus
+Preparing for UPSC while offering selective professional services in consulting, tutoring, and coaching.
+
