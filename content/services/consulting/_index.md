@@ -2,20 +2,54 @@
 title: Business & Strategy Consulting
 ---
 
-### What I Help With
+## Overview
+
+I provide focused business and strategy consulting to organizations and founders who need **clear analysis, structured thinking, and practical execution**, not generic advice.
+
+My work spans pricing strategy, financial analysis, go-to-market planning, and operational optimization — grounded in real corporate experience across energy, chemicals, and finance.
+
+---
+
+## What I Help With
+
 - Pricing & market strategy
-- Financial analysis & modeling
-- Go-to-market planning
-- Operational & supply-chain optimization
+- Financial modeling & analysis
+- Go-to-market (GTM) strategy
+- Supply-chain & operational optimization
+- Risk and credit analysis
+- Strategic decision support
 
-### Experience
-- 40% revenue growth at VAS Carbons
-- Consulting for Sasol & Toshiba
-- Credit & risk management at Neste
+---
 
-### Engagement
-- Short-term advisory
-- Project-based consulting
-- 1:1 strategy sessions
+## Relevant Experience
 
-📅 **Book a consultation via the Contact page**
+- Drove **40% revenue growth** through pricing and market analysis at VAS Carbons  
+- Consulting engagements with **Sasol** and **Toshiba**  
+- Managed **$75M+ credit portfolio** and monitored **$500M+ exposure** at Neste  
+- MBA (Finance & Strategy) from Rice University
+
+---
+
+## Engagement Formats
+
+- One-time strategy consultations  
+- Short-term advisory engagements  
+- Project-based consulting  
+- Independent second-opinion reviews  
+
+---
+
+## Who This Is For
+
+- Small and mid-sized businesses
+- Startups needing structured strategy
+- Professionals seeking data-backed business decisions
+- Teams needing external analytical support
+
+---
+
+## Next Step
+
+If you’d like to explore whether I’m the right fit for your requirement,  
+you can reach out via the **Contact** page to schedule an initial conversation.
+
