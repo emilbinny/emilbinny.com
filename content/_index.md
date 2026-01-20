@@ -1,18 +1,43 @@
 ---
-title: "Emil Mathew Binny"
-date: 2022-10-24
-type: landing
-design:
-  spacing: "6rem"
+title: ""
+type: home
 ---
 
-# I help students and professionals succeed in finance, economics, and competitive exams
+## I help professionals and students succeed through strategy, economics, and coaching.
 
-With an MA in Applied Economics (JNU) and an MBA in Finance & Strategy (Rice), I support ambitious students and working professionals through consulting, tutoring, and coaching.
+I’m **Emil Mathew Binny** — a business & economics professional with 5+ years of experience across consulting, finance, and education.
 
-- Business and financial strategy consulting for growing companies  
-- MBA and economics tutoring for university students  
-- UPSC Economics optional and test prep coaching  
-- Interview and resume coaching based on 250+ interviews  
+I’ve driven **40% revenue growth**, managed **$75M+ credit portfolios**, interviewed **250+ candidates**, and taught economics at university level.  
+Today, alongside my **UPSC preparation**, I offer focused, high-impact professional services.
 
-[View my services](/services/) · [Learn more about me](/about/)
+---
+
+### What I Do
+
+- **Business & Strategy Consulting**  
+  Pricing, finance, GTM, and operational strategy backed by real corporate outcomes.
+
+- **Economics & MBA Tutoring**  
+  MA Economics (JNU) + MBA (Rice) — theory applied to real-world problem solving.
+
+- **UPSC Economics Coaching**  
+  Structured guidance from a serious aspirant with strong academic grounding.
+
+- **Interview & Resume Coaching**  
+  Practical preparation from someone who has interviewed 250+ candidates.
+
+---
+
+### Why Work With Me?
+
+- MA Economics (JNU) + MBA (Rice University)
+- Experience with Sasol, Toshiba, VAS Carbons, Neste
+- Former President, Indian Students Association (Rice)
+- Survivor of Guillain-Barré Syndrome — resilience in action
+
+---
+
+👉 **Next Steps**
+- [View Services](/services/)
+- [Book a Consultation](/contact/)
+
