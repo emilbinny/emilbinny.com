@@ -45,7 +45,6 @@ The focus is on **understanding, strategy, and efficiency**, not rote problem-so
 
 ---
 
-## Next Step
+## Book a Test Preparation Discussion
 
-For availability and structure,  
-please reach out through the **Contact** page.
+📅 [Schedule a 30-minute discussion](https://calendly.com/emilbinny/30min)

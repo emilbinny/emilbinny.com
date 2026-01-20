@@ -55,7 +55,8 @@ I work with a limited number of students to ensure quality engagement.
 
 ---
 
-## Next Step
+## Book a UPSC Economics Discussion
 
-If you are interested, please reach out via the **Contact** page  
-to understand availability and structure.
+📅 [Schedule a 30-minute discussion](https://calendly.com/emilbinny/30min)
+
+*This call helps assess fit and expectations.*

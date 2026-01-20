@@ -48,8 +48,8 @@ My work spans pricing strategy, financial analysis, go-to-market planning, and o
 
 ---
 
-## Next Step
+## Book a Consulting Discussion
 
-If you’d like to explore whether I’m the right fit for your requirement,  
-you can reach out via the **Contact** page to schedule an initial conversation.
+📅 [Schedule a 30-minute consultation](https://calendly.com/emilbinny/30min)
 
+*This is a structured, paid introductory conversation.*

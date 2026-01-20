@@ -47,7 +47,8 @@ I have personally interviewed **250+ candidates** across roles and experience le
 
 ---
 
-## Next Step
+## Book an Interview Preparation Session
 
-To discuss your interview goals or resume review needs,  
-please contact me through the **Contact** page.
+📅 [Schedule a 30-minute session](https://calendly.com/emilbinny/30min)
+
+*Interview sessions are paid and outcome-focused.*

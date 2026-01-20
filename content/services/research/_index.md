@@ -8,6 +8,8 @@ I undertake economic research and analytical writing assignments that require **
 
 My work draws from formal economics training and applied business experience.
 
+This service is suitable for clients who need rigorous economic or analytical writing rather than content marketing or opinion pieces.
+
 ---
 
 ## Types of Work
@@ -47,8 +49,8 @@ My work draws from formal economics training and applied business experience.
 
 ---
 
-## Next Step
+## Discuss a Research or Writing Requirement
 
-If you have a research or writing requirement,  
-please reach out via the **Contact** page with details.
+📅 [Schedule a 30-minute discussion](https://calendly.com/emilbinny/30min)
 
+*Please come with a clear scope or brief.*

@@ -57,7 +57,8 @@ My teaching combines a strong academic foundation with practical business experi
 
 ---
 
-## Next Step
+## Book a Tutoring Discussion
 
-To discuss your requirements and availability,  
-please reach out through the **Contact** page.
+📅 [Schedule a 30-minute discussion](https://calendly.com/emilbinny/30min)
+
+*We'll discuss your background, goals, and learning needs.*
