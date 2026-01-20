@@ -15,10 +15,12 @@ main:
     url: /portfolio/
     weight: 40
 
-  - name: Blog
-    url: /blog/
+  - name: Resources
+    url: /resources/
     weight: 50
 
   - name: Contact
     url: /contact/
     weight: 60
+
+
