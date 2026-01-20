@@ -1,5 +1,6 @@
 ---
 title: Contact & Booking
+type: page
 ---
 
 ### Let’s Talk
